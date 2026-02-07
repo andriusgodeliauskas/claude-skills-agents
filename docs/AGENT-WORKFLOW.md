@@ -1,5 +1,29 @@
 # MULTI-AGENT WEBSITE DEVELOPMENT WORKFLOW
 
+## ⚠️ MANDATORY FIRST STEP: CHECK FOR UPDATES
+
+**Before starting ANY website project, sync latest agents and workflows:**
+
+```bash
+cd /root/claude-skills-agents
+git pull origin main
+```
+
+**Why this matters:**
+- Andrius continuously improves agents with new trends (Awwwards SOTD analysis, 2026 design patterns)
+- Workflow optimizations (faster build times, better quality gates)
+- Bug fixes and security improvements
+- New automation scripts
+
+**What to check after sync:**
+1. Read `CHANGELOG.md` for breaking changes
+2. Review updated agent instructions if any
+3. Test new features on small project first
+
+**Skip this = outdated workflows = lower quality results!**
+
+---
+
 ## OVERVIEW
 
 Premium website development using 5 specialized AI agents working in sequence through Claude CLI terminal.

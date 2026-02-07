@@ -1,5 +1,30 @@
 # PREMIUM WEBSITE WORKFLOW
 
+## ⚠️ MANDATORY FIRST STEP: SYNC LATEST AGENTS & WORKFLOWS
+
+**Before starting ANY website project:**
+
+```bash
+cd /root/claude-skills-agents
+git pull origin main
+cat CHANGELOG.md  # Check what changed
+```
+
+**Critical Updates to Watch:**
+- New design trends (Awwwards winners, 2026 patterns)
+- Agent improvements (better analysis, faster builds)
+- Quality gate changes (new checkpoints)
+- Automation scripts (deployment, testing)
+
+**Andrius continuously updates this repo!** Skipping sync = outdated methods = lower quality.
+
+**When to sync:**
+1. ✅ Before Phase 1 (every new project)
+2. ✅ Weekly (proactive learning)
+3. ✅ After Andrius announces updates
+
+---
+
 ## 🆕 MANDATORY: QA Agent Testing (Phase 7)
 **ALWAYS run automated QA testing after build completion!**
 
