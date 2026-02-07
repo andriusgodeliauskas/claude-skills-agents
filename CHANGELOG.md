@@ -2,6 +2,21 @@
 
 All notable changes to agents and workflows will be documented here.
 
+## [1.0.2] - 2026-02-07
+
+### Added
+- **AGENT-WORKFLOW.md** - Multi-agent website development workflow (5 phases)
+- **PREMIUM-WORKFLOW.md** - Detailed 9-phase premium workflow
+- **FTP Deployment Principle** - MANDATORY: Always create NEW folder per project
+- **Portfolio Auto-Update Integration** - Workflows updated with automatic portfolio deployment
+
+### Changed
+- Workflows now mandate separate FTP folders for each project
+- Deployment steps clearly documented in both workflows
+- Portfolio automatically updates after deployment (no manual editing)
+
+---
+
 ## [1.0.1] - 2026-02-07
 
 ### Added
