@@ -2,6 +2,18 @@
 
 All notable changes to agents and workflows will be documented here.
 
+## [1.0.1] - 2026-02-07
+
+### Added
+- **11-responsive-premium** skill - Premium responsive design guidelines
+- **12-deployment-paths** skill - FTP subfolder deployment path handling
+
+### Fixed
+- Deployment path issues when uploading to subfolders (e.g., `/project-name/`)
+- Common 404 errors from absolute paths in subfolder deployments
+
+---
+
 ## [1.0.0] - 2026-02-07
 
 ### Added

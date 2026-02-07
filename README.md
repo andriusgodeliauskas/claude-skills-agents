@@ -126,6 +126,10 @@ claude-skills-agents/
 - **09-3d-immersive** - 3D Immersive/Spatial (product showcases, tech demos, automotive)
 - **10-neumorphic-soft** - Neumorphic/Soft UI (wellness apps, smart home, music players)
 
+**Deployment & Responsive:**
+- **11-responsive-premium** - Premium responsive design guidelines and best practices
+- **12-deployment-paths** - Fix #1 deployment bug: correct path handling for FTP subfolder uploads
+
 **2026 Design Trends Included:**
 - ✅ Bento grid layouts
 - ✅ Glassmorphism / Liquid Glass
