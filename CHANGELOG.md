@@ -21,11 +21,20 @@ All notable changes to agents and workflows will be documented here.
   - tmux (remote tmux control)
   - skill-creator (create new skills)
   - weather (weather data)
-- 4 custom skills (project-specific):
-  - autonomous-mode
-  - browser-restart
-  - deploy-portfolio
-  - last30days
+- 15 custom skills:
+  - **Workflow automation (4):** autonomous-mode, browser-restart, deploy-portfolio, last30days
+  - **Design styles (11):**
+    - 00-design-master (style router & selection logic)
+    - 01-liquid-glass (Glassmorphism)
+    - 02-neobrutalist (Neo-Brutalist)
+    - 03-editorial-luxury (Editorial/Luxury Magazine)
+    - 04-bento-dashboard (Bento Grid Dashboard)
+    - 05-cyberpunk-neon (Cyberpunk/Neon Dark)
+    - 06-organic-nature (Organic/Nature)
+    - 07-retro-futurism-y2k (Retro-Futurism/Y2K Revival)
+    - 08-minimal-swiss (Minimal Swiss/Scandinavian)
+    - 09-3d-immersive (3D Immersive/Spatial)
+    - 10-neumorphic-soft (Neumorphic/Soft UI)
 - 4 workflow documentation files:
   - AGENT-WORKFLOW.md (5-phase master process)
   - PREMIUM-WORKFLOW.md (9-phase detailed manual)
@@ -36,6 +45,18 @@ All notable changes to agents and workflows will be documented here.
   - ui-qa-seed-to-cup.sh (automated UI testing example)
 - README.md with usage instructions and skills documentation
 - GitHub sync integration documentation
+
+### Design Trends (2026)
+All 11 design styles incorporate latest trends:
+- Bento grid layouts
+- Glassmorphism / Liquid Glass (Apple-inspired)
+- AI-adaptive interfaces
+- Scroll-driven animations (GSAP + ScrollTrigger)
+- Dark mode as default
+- Variable fonts & fluid typography
+- 3D and spatial elements
+- Neo-brutalism and anti-design
+- Organic nature-inspired aesthetics
 
 ### Changed
 - N/A (initial release)

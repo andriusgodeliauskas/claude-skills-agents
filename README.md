@@ -107,10 +107,35 @@ claude-skills-agents/
 
 ### Custom Skills (Project-specific)
 
+**Workflow Automation:**
 - **autonomous-mode** - Autonomous task execution
 - **browser-restart** - Browser automation recovery
 - **deploy-portfolio** - Portfolio deployment automation
 - **last30days** - Recent work tracking
+
+**Design Styles (11 Premium Systems):**
+- **00-design-master** - Style router & selection logic (analyzes project → recommends best style)
+- **01-liquid-glass** - Glassmorphism (SaaS, fintech, AI products, dashboards)
+- **02-neobrutalist** - Neo-Brutalist (creative agencies, indie brands, art portfolios)
+- **03-editorial-luxury** - Editorial/Luxury Magazine (fashion, luxury goods, architecture)
+- **04-bento-dashboard** - Bento Grid Dashboard (analytics, admin panels, monitoring)
+- **05-cyberpunk-neon** - Cyberpunk/Neon Dark (gaming, crypto/Web3, music)
+- **06-organic-nature** - Organic/Nature (wellness, eco brands, food, yoga)
+- **07-retro-futurism-y2k** - Retro-Futurism/Y2K Revival (fashion, music, youth brands)
+- **08-minimal-swiss** - Minimal Swiss/Scandinavian (dev tools, architecture, services)
+- **09-3d-immersive** - 3D Immersive/Spatial (product showcases, tech demos, automotive)
+- **10-neumorphic-soft** - Neumorphic/Soft UI (wellness apps, smart home, music players)
+
+**2026 Design Trends Included:**
+- ✅ Bento grid layouts
+- ✅ Glassmorphism / Liquid Glass
+- ✅ AI-adaptive interfaces
+- ✅ Scroll-driven animations (GSAP + ScrollTrigger)
+- ✅ Dark mode as default
+- ✅ Variable fonts & fluid typography
+- ✅ 3D and spatial elements
+- ✅ Neo-brutalism and anti-design
+- ✅ Organic nature-inspired aesthetics
 
 ---
 
