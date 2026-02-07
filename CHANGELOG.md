@@ -13,6 +13,19 @@ All notable changes to agents and workflows will be documented here.
   - website-code-review-agent.md
   - website-qa-agent.md
   - ui-qa-agent.md
+- 7 Clawdbot built-in skills (website development):
+  - coding-agent (Claude Code, Codex integration)
+  - github (GitHub CLI `gh` integration)
+  - gemini (Gemini CLI for analysis)
+  - notion (Notion API)
+  - tmux (remote tmux control)
+  - skill-creator (create new skills)
+  - weather (weather data)
+- 4 custom skills (project-specific):
+  - autonomous-mode
+  - browser-restart
+  - deploy-portfolio
+  - last30days
 - 4 workflow documentation files:
   - AGENT-WORKFLOW.md (5-phase master process)
   - PREMIUM-WORKFLOW.md (9-phase detailed manual)
@@ -21,7 +34,7 @@ All notable changes to agents and workflows will be documented here.
 - 2 automation scripts:
   - deploy-website.sh (FTP deployment)
   - ui-qa-seed-to-cup.sh (automated UI testing example)
-- README.md with usage instructions
+- README.md with usage instructions and skills documentation
 - GitHub sync integration documentation
 
 ### Changed

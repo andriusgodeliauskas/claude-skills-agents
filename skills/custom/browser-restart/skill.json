@@ -1,0 +1,7 @@
+{
+  "name": "browser-restart",
+  "description": "Restart the browser and gateway when screenshot or browser operations fail",
+  "command": "/browser-restart",
+  "type": "shell",
+  "shell": "/usr/local/bin/clawdbot-browser-restart"
+}

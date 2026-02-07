@@ -1,0 +1,7 @@
+{
+  "name": "deploy-portfolio",
+  "description": "Įkelti visas svetaines į alfred.godeliauskas.com portfolio",
+  "command": "/deploy-portfolio",
+  "type": "shell",
+  "shell": "/root/clawd/scripts/deploy-to-ftp.sh"
+}

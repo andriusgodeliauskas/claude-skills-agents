@@ -1,0 +1,7 @@
+{
+  "name": "autonomous-mode",
+  "description": "Autonominis režimas kai AI limitai išnaudoti - vykdo offline užduotis",
+  "command": "/autonomous",
+  "type": "shell",
+  "shell": "/root/clawd/scripts/autonomous-mode.sh"
+}

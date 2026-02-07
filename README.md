@@ -64,6 +64,56 @@ claude-skills-agents/
 
 ---
 
+## 🛠️ Skills
+
+### Clawdbot Built-in Skills (Website Development)
+
+- **coding-agent** - Claude Code, Codex, OpenCode integration
+  - Background process control for coding agents
+  - Multi-window workflow support
+  - Checkpoint commits, PR management
+
+- **github** - GitHub CLI (`gh`) integration
+  - Issue management (`gh issue`)
+  - PR creation/review (`gh pr`)
+  - CI/CD runs (`gh run`)
+  - Advanced API queries
+
+- **gemini** - Gemini CLI for analysis
+  - Large file processing
+  - Log analysis, mismatch search
+  - Morning data aggregation
+  - One-shot Q&A and summaries
+
+- **notion** - Notion API integration
+  - Create/manage pages and databases
+  - Block-level content management
+  - Project documentation
+
+- **tmux** - Remote-control tmux sessions
+  - Interactive CLI control via keystroke injection
+  - Long-running process management
+  - Pane output scraping
+  - Multi-agent orchestration
+
+- **skill-creator** - AgentSkill creation tool
+  - Design and structure new skills
+  - Package with scripts, references, assets
+  - Clawdbot skill standards
+
+- **weather** - Weather data (no API key required)
+  - Current conditions and forecasts
+  - Content generation for location-based sites
+
+### Custom Skills (Project-specific)
+
+- **autonomous-mode** - Autonomous task execution
+- **browser-restart** - Browser automation recovery
+- **deploy-portfolio** - Portfolio deployment automation
+- **last30days** - Recent work tracking
+
+---
+
 ## 📚 Documentation
 
 - **AGENT-WORKFLOW.md** - Master coordination workflow (5-phase process)
